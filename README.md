@@ -1,2 +1,1 @@
-# alx-low_level_programming
-My first repository
+Low level programming with c language
