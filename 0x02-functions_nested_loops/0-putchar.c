@@ -3,7 +3,7 @@
  * Auth: joshua ndungu
  *
  */
-
+#include <stdio.h>
 #include "main.h"
 
 /**
