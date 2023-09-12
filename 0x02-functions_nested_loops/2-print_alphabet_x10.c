@@ -2,7 +2,7 @@
  * file : 2-print_alphabet_x10.c
  * author : joshua ndungu
  */
-#include <main.h>
+#include "main.h"
 /** 
  * main -reads the code
  *  prints 10 times the alphabet, in lowercase, followed by a new line.
