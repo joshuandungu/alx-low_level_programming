@@ -2,7 +2,6 @@
  * File: 5-sign.c
  * Auth: joshua ndungu
  */
-
 #include "main.h"
 
 /**
