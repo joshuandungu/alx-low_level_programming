@@ -12,7 +12,7 @@
  *
  * Return: Always 0.
  */
-int main(void)
+void print_alphabet(void)
 {
 	_putchar('_');
 	_putchar('p');
