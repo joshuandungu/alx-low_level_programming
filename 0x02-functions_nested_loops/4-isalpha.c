@@ -3,7 +3,7 @@
  * Auth: joshua ndungu
  */
 
-#include "holberton.h"
+#include "main.h"
 
 /**
  * _isalpha - Checks if a character is alphabetic.
