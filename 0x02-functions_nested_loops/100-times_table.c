@@ -1,6 +1,6 @@
 /*
  * File: 100-times_table.c
- * Auth: joshuandungu
+ * Auth: joshua ndungu
  */
 
 #include "main.h"
@@ -45,5 +45,5 @@ void print_times_table(int n)
 			}
 			_putchar('\n');
 		}
-	} 
+	}
 }
