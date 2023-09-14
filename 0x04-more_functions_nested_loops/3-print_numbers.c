@@ -1,6 +1,6 @@
 /*
- * File: 3-print_numbers.c
- * Auth: Brennan D Baraban
+ * file: 3-print_numbers.c
+ * auth: joshua ndungu
  */
 
 #include "main.h"
@@ -16,4 +16,4 @@ void print_numbers(void)
 		_putchar((num % 10) + '0');
 
 	_putchar('\n');
-}c
+}
