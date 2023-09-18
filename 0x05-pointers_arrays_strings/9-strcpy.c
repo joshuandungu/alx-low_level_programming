@@ -1,6 +1,6 @@
 /*
- * File: 9-strcpy.c
- * Auth: joshua ndungu
+ * file: 9-strcpy.c
+ * author: joshua ndungu
  */
 
 #include "main.h"
