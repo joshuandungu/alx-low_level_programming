@@ -8,7 +8,9 @@
 /**
  * print_rev - Prints a string in reverse.
  * @s: The string to be printed.
+ * return: void
  */
+
 void print_rev(char *s)
 {
 	int i;
