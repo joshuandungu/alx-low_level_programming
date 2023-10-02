@@ -6,7 +6,7 @@
  * File: main.h
  * Author: joshua ndungu
  * Desc: Header file containing the prototypes of all functions
- *       included in the static library libmy.a.
+ *       included in the static library libholberton.a.
  */
 
 int _isupper(int c);
