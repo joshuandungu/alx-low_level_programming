@@ -3,7 +3,7 @@
  * Author: joshua ndungu
  */
 
-#include "holberton.h"
+#include "main.h"
 #include <stdlib.h>
 
 /**
