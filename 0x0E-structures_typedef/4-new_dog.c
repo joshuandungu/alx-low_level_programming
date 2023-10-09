@@ -3,7 +3,8 @@
 
 
 	/**
-	 * _strlen - returns the length of a string
+	 * 4-new_dog.c - Create a new string
+	 * _strlen(char *s) - returns the length of a string
 	 * @s: string to evaluate
 	 *
 	 * Return: the length of the string
