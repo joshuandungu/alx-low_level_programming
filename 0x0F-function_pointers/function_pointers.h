@@ -1,7 +1,9 @@
 #ifndef FUNCTION_POINTERS_H
 #define FUNCTION_POINTERS_H
-
-
+/*
+ * File : function_pointers.h
+ * Desc : file containing all  prototype files for all files in the directory
+ */
 #include <stddef.h>
 #include <stdlib.h>
 void print_name(char *name, void (*f)(char *));
