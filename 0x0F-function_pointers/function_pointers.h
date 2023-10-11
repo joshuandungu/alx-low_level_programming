@@ -1,19 +1,21 @@
-#ifndef FUNCTION_POINTER_H
-#define FUNCTION_POINTER_H
+#ifndef FUNCTION_POINTERS_H
+#define FUNCTION_POINTERS_H
 
-/**
- * File: function_pointer.h
- * author: joshua ndungu
- *
- * desc-file containing all prototypes for all files in 0x0F directory
- */
 
 #include <stddef.h>
 #include <stdlib.h>
-
+/**
+ * function_pointers.h - contain all function prototypes
+ * void print_name(chat *name, void (*f) char *))  function that prints a name
+ * int _putchar(char c - executes a function given array as an elemt parameter
+ * void array_iterator(int *array, size_t size, void (*action)(int))
+ * int int_index(int *array, int size, int (*cmp)(int)) -do simple operation
+ */
 void print_name(char *name, void (*f)(char *));
+int _putchar(char c);
 void array_iterator(int *array, size_t size, void (*action)(int));
 int int_index(int *array, int size, int (*cmp)(int));
-int (*get_op_func(char *s))(int, int);
 
-#endif
+
+	#endif
+
