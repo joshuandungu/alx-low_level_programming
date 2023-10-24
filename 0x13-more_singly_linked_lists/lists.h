@@ -1,11 +1,12 @@
 #ifndef LISTS_H
-#define LISTS_H 
+#define LISTS_H
 
-/**
-* file: lists.h
-* author: joshua ndungu
-* desc: file that carries all fuction prototypes to all files in the directory
-*/
+/*
+ * File: lists.h
+ * Author: joshua ndungu
+ * Desc: Header file containing prototypes and definitions for all functions
+ *       and types written in the 0x12-more_singly_linked_lists directory.
+ */
 
 #include <stdlib.h>
 
@@ -13,8 +14,9 @@
  * struct listint_s - singly linked list
  * @n: integer
  * @next: points to the next node
+ *
  * Description: singly linked list node structure
- * for alx project
+ * for Holberton project
  */
 typedef struct listint_s
 {
@@ -39,3 +41,4 @@ size_t free_listint_safe(listint_t **h);
 listint_t *find_listint_loop(listint_t *head);
 
 #endif /* LISTS_H */
+
