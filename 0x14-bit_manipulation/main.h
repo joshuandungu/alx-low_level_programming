@@ -1,12 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
-
-/*
- * File: main.h
- * author: joshua ndungu
- * Desc: Header file containing prototypes for all functions
- *       written in the 0x14-bit_manipulation directory.
- */
+#include <stddef.h>
 
 int _putchar(char c);
 unsigned int binary_to_uint(const char *b);
