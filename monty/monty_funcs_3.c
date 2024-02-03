@@ -1,7 +1,5 @@
 /*
  * File: monty_funcs_3.c
- * Auth: Bennett Dixon
- *       Brennan D Baraban
  */
 
 #include "monty.h"
